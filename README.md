@@ -188,7 +188,7 @@ Para conseguirmos visualizar os dados de maneira clara e eficiente, conclui a an
 
 Link para acesso: [Dashboard Danny's Diner](https://app.powerbi.com/view?r=eyJrIjoiNDI2ZjliNDctNzM0MC00OWNhLTg1MzgtMjc0YTAxNjcwYzQ5IiwidCI6IjQ0Nzg4YWI1LTg3YmMtNGIzMi1hMmM4LTgwZTM0ZjM2NDc4MSJ9)
 
-![image](https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/e8836430-ab80-4aaf-ad08-2a17a907072b)
+![image](https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/12479369-864a-4267-b6ce-4ae1ddbb4953)
 
 
 
