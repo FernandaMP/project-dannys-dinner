@@ -182,6 +182,16 @@ Para aprimorar a análise, Danny precisa de mais informações sobre a classific
 
 <img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/1c4c2334-8ec1-4f7b-bd20-0addbd0a6ef6" width="50%"/>
 
+## Dashboard
+
+Para conseguirmos visualizar os dados de maneira clara e eficiente, conclui a análise com a criação de um dashboard no Power BI.
+
+Link para acesso: [Dashboard Danny's Diner](https://app.powerbi.com/view?r=eyJrIjoiNDI2ZjliNDctNzM0MC00OWNhLTg1MzgtMjc0YTAxNjcwYzQ5IiwidCI6IjQ0Nzg4YWI1LTg3YmMtNGIzMi1hMmM4LTgwZTM0ZjM2NDc4MSJ9)
+
+![image](https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/e8836430-ab80-4aaf-ad08-2a17a907072b)
+
+
+
 
 
 
