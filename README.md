@@ -31,97 +31,97 @@ Danny compartilhou três conjuntos de dados-chave para este estudo de caso:
 
 ## Database
 
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/8a276b2e-5f48-408a-bf7a-42d8aec83ebd" width="40%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/8a276b2e-5f48-408a-bf7a-42d8aec83ebd" width="50%"/>
 
 ## Análises
 
 **1. Qual é o valor total gasto por cada cliente no restaurante?**
 
 <div align='left'>
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/7c43df0b-1e57-4a98-8b38-35f51c90af86" width="40%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/7c43df0b-1e57-4a98-8b38-35f51c90af86" width="50%"/>
 </div>
 
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/8d6a39e0-6f16-4c85-bfe4-9f56936d74a5" width="40%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/8d6a39e0-6f16-4c85-bfe4-9f56936d74a5" width="50%"/>
 
 &nbsp;
 
 **2. Quantos dias cada cliente visitou o restaurante?**
 
 <div align='left'>
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/24cb91da-c864-42ef-952a-2691c3c96e10" width="40%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/24cb91da-c864-42ef-952a-2691c3c96e10" width="50%"/>
 </div>
 
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/56d1e820-1694-4594-8094-20c5683e34b3" width="40%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/56d1e820-1694-4594-8094-20c5683e34b3" width="50%"/>
 
 &nbsp;
 
 **3. Qual foi o primeiro item do cardápio comprado por cada cliente?**
 
 <div align='left'>
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/53526183-73ad-4e81-b107-03acf5713b61" width="60%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/53526183-73ad-4e81-b107-03acf5713b61" width="50%"/>
 </div>
 
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/b2b86158-d58a-4955-a9e2-c9844da8dd58" width="60%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/b2b86158-d58a-4955-a9e2-c9844da8dd58" width="50%"/>
 
 &nbsp;
 
 **4. Qual é o item mais comprado no cardápio e quantas vezes foi pedido por todos os clientes?**
 
 <div align='left'>
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/e500e120-610f-4a26-b985-dc2cb9608ee1" width="60%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/e500e120-610f-4a26-b985-dc2cb9608ee1" width="50%"/>
 </div>
 
 &nbsp;
 
 **Item mais comprado do cardápio**
 
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/b0f5195d-f83c-4345-a498-7e9e8d710daf" width="60%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/b0f5195d-f83c-4345-a498-7e9e8d710daf" width="50%"/>
 
 &nbsp;
 
 **Itens comprados por clientes**
 
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/2d8dea0e-3bd8-4bd9-b7ab-cb60438388a9" width="60%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/2d8dea0e-3bd8-4bd9-b7ab-cb60438388a9" width="50%"/>
 
 &nbsp;
 
 **5. Qual item foi mais popular para cada cliente?**
 
 <div align='left'>
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/7119a8bc-fdaa-4001-8ea1-d766effa2494" width="40%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/7119a8bc-fdaa-4001-8ea1-d766effa2494" width="50%"/>
 </div>
 
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/f0f81bf5-f24c-4665-8ff6-86b0dade5f77" width="40%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/f0f81bf5-f24c-4665-8ff6-86b0dade5f77" width="50%"/>
 
 &nbsp;
 
 **6. Qual foi o primeiro item adquirido por cada cliente após tornar-se membro?**
 
 <div align='left'>
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/75d44105-2492-4088-8ce9-952ccf8855e4" width="60%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/75d44105-2492-4088-8ce9-952ccf8855e4" width="50%"/>
 </div>
 
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/3fdab66c-03ba-49e0-921c-d1a6903b743f" width="60%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/3fdab66c-03ba-49e0-921c-d1a6903b743f" width="50%"/>
 
 &nbsp;
 
 **7. Qual item foi adquirido antes de o cliente se tornar um membro?**
 
 <div align='left'>
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/bd62d1c9-a2b8-4946-a79d-327e047c1cf6" width="60%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/bd62d1c9-a2b8-4946-a79d-327e047c1cf6" width="50%"/>
 </div>
 
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/763e7f9d-fb5e-4812-9fc0-5f2b2ee4b57e" width="60%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/763e7f9d-fb5e-4812-9fc0-5f2b2ee4b57e" width="50%"/>
 
 &nbsp;
 
 **8. Qual é o total de itens e valor gasto por cada membro antes de se tornarem membros?**
 
 <div align='left'>
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/5f5f530f-61fe-42b2-b990-660ee0973824" width="40%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/5f5f530f-61fe-42b2-b990-660ee0973824" width="50%"/>
 </div>
 
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/e351b72c-35c4-46e1-b248-35f998ecc73f" width="40%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/e351b72c-35c4-46e1-b248-35f998ecc73f" width="50%"/>
 
 &nbsp;
 
@@ -138,10 +138,10 @@ Danny compartilhou três conjuntos de dados-chave para este estudo de caso:
 **10. Durante a primeira semana após a adesão de um cliente ao programa (incluindo a data de inscrição), eles recebem pontos em dobro em todos os itens, não se limitando ao sushi. Ao considerar essa promoção, quantos pontos os clientes A e B acumulariam no final de janeiro?**
 
 <div align='left'>
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/d2a7b2ca-7cf0-4c3e-b54f-51464518c699" width="40%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/d2a7b2ca-7cf0-4c3e-b54f-51464518c699" width="50%"/>
 </div>
 
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/3b7fe73b-c941-45ae-8765-eab0b038cf3c" width="40%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/3b7fe73b-c941-45ae-8765-eab0b038cf3c" width="50%"/>
 
 &nbsp;
 
@@ -177,10 +177,10 @@ Para aprimorar a análise, Danny precisa de mais informações sobre a classific
 **Resultado:**
 
 <div align='left'>
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/6086f90e-e4b3-4103-8c2c-8746dc99049d" width="60%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/6086f90e-e4b3-4103-8c2c-8746dc99049d" width="50%"/>
 </div>
 
-<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/1c4c2334-8ec1-4f7b-bd20-0addbd0a6ef6" width="60%"/>
+<img src="https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/1c4c2334-8ec1-4f7b-bd20-0addbd0a6ef6" width="50%"/>
 
 
 
