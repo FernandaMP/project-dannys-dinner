@@ -2,7 +2,7 @@
 
 Esse projeto faz parte do [8 Week SQL Challenge](https://8weeksqlchallenge.com/) elaborado e disponibilizado pelo [Data With Danny](https://www.datawithdanny.com/).
 
-As análises foram realizadas com PostgreSQL utilizando o pgAdmin. 
+As análises foram realizadas com PostgreSQL utilizando o pgAdmin, e o Dashboard foi criado com o Power BI.
 
 ## Introdução
 
