@@ -188,6 +188,14 @@ Para conseguirmos visualizar os dados de maneira clara e eficiente, conclui a an
 
 Link para acesso: [Dashboard Danny's Diner](https://app.powerbi.com/view?r=eyJrIjoiNDI2ZjliNDctNzM0MC00OWNhLTg1MzgtMjc0YTAxNjcwYzQ5IiwidCI6IjQ0Nzg4YWI1LTg3YmMtNGIzMi1hMmM4LTgwZTM0ZjM2NDc4MSJ9)
 
+# Conclusões
+1. Podemos observar que do total de 186 vendas realizadas, 85 foram após se tornarenm membros, com isso conseguimos concluir de que o programa de fidelidade foi bom, pois quase dobrou as vendas.
+2. Notamos que o nosso cliente mais fiel é o A, com um gasto total de 76.
+3. Já o consumidor B é o segundo colocado no gasto total, com 74, porém é o cliente que mais visita o restaurante.
+4. Podemos verificar que o cliente A gastou mais após se tornar membro, com um total de 51 contra 25, quando não era membro.
+5. O produto campeão de vendas é o ramen, com 53%, seguido do curry com 26%.
+6. Com o gráfico Total Vendas, é possível verificar as datas onde houve maior movimento no restaurante, sendo o dia 1 de janeiro o dia com mais vendas, com 64.
+
 ![image](https://github.com/FernandaMP/project-dannys-dinner/assets/110065859/12479369-864a-4267-b6ce-4ae1ddbb4953)
 
 
